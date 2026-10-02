@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-banner.png" alt="Привет, я Иван 👋" width="100%" />
+  <img src="./header.png" alt="Привет, я Иван 👋" width="100%" />
 </p>
 
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
