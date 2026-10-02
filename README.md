@@ -1,6 +1,10 @@
-<div align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="border-radius: 10px; display: block;">
-</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="display: block; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
 
 > *"Качество — это не этап, это образ мышления."*
