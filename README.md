@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./header.png" alt="Привет, я Иван 👋" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-header-banner-2.png">
+    <img alt="Header banner" src="./github-header-banner-2.png" width="100%">
+  </picture>
 </p>
 
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
