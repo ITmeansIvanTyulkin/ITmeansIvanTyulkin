@@ -1,5 +1,4 @@
-<img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 10px; margin-bottom: 10px;">
-
+<img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 10px;">
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
 
 > *"Качество — это не этап, это образ мышления."*
