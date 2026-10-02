@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-header-banner-2.png">
-    <img alt="Header banner" src="./github-header-banner-2.png" width="100%">
-  </picture>
-</p>
+<img alt="Header banner" src="./github-header-banner-2.png" width="100%">
 
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
 
