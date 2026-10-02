@@ -1,4 +1,10 @@
-<img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 10px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="Header banner" src="./github-header-banner-2.png" width="100%" style="border-radius: 10px; display: block;">
+    </td>
+  </tr>
+</table>
 ### QA Engineer → Java Developer | Banking & Fintech | AI-энтузиаст
 
 > *"Качество — это не этап, это образ мышления."*
